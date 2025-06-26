@@ -87,11 +87,3 @@ search_range = 32
 ```
 [Frame 1] ---> [Motion Vectors] ---> [Motion Compensated Frame ≈ Frame 2]
 ```
-
-## 🧑‍💻 Author
-
-Daniel Bavisetti
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
